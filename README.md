@@ -36,17 +36,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+Diagrama+de+clase+🗒️" alt="Typing SVG" /></a>
 
 > *`Ejercicio 1 Pagina 400`*
->  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
+>  <img width="1960" height="1080" alt="UML Ejercicio 1 Actividad 4" src="https://github.com/user-attachments/assets/a15660d6-f707-4f20-b145-22de790a5d6e" />
+
 
 
 > >  *`Ejercicio 2 Pagina 406`*
-> >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
+> >  <img width="1960" height="1080" alt="UML Diagrama de clases Ejercicio 2" src="https://github.com/user-attachments/assets/f39707b5-e63d-48b8-b2da-f4bc953bc005" />
 
 > > > *`Ejercicio 3 Pagina 412`*
-> > >
+> > > <img width="691" height="689" alt="Ejercicio 3" src="https://github.com/user-attachments/assets/721f8a15-7823-40a8-95b4-40c0d9f0c092" />
+
 > > > > *`Ejercicio 4 Pagina 418`*
-> > > >
+> > > > <img width="688" height="690" alt="Ejercicio 4" src="https://github.com/user-attachments/assets/77cae402-78e0-4fe3-8ce1-124bc10f8176" />
+
 > > > > > *`Ejercicio 5 Pagina 427`*
+> > > > > 
+> > > > > ![UML EJ 5 ACT 4](https://github.com/user-attachments/assets/beaf78a9-a9c5-40fe-a74c-e034b04d0d7c)
+
 
 #
 
@@ -54,17 +60,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=👥+UML+Casos+de+Usos+👥" alt="Typing SVG" /></a>
 
 > *`Ejercicio 1 Pagina 400`*
->  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
+> <img width="1651" height="1093" alt="Caso de Uso Ejercicio 1" src="https://github.com/user-attachments/assets/01c27f49-8de5-469e-964d-44dc95568396" />
 
 
 > >  *`Ejercicio 2 Pagina 406`*
-> >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
+> >  <img width="1651" height="1093" alt="Caso de Uso Ejercicio 2" src="https://github.com/user-attachments/assets/f7e6db34-428c-4f2b-82c3-906defff2ef4" />
+
 
 > > > *`Ejercicio 3 Pagina 412`*
-> > >
+> > > <img width="1592" height="873" alt="Ejercicio 3" src="https://github.com/user-attachments/assets/aa97d79b-177e-4054-8f1e-7ecec29457cb" />
+
 > > > > *`Ejercicio 4 Pagina 418`*
-> > > >
+> > > > 
+> > > > ![Caso de Uso Ejercicio 4](https://github.com/user-attachments/assets/30a7cdb4-0310-45b5-b7c3-1842eef9c818)
+
 > > > > > *`Ejercicio 5 Pagina 427`*
+> > > > > ![Ejercicio 5 parte 1](https://github.com/user-attachments/assets/38240770-d7d0-498e-8994-a3d3736ac6f6)
+> > > > > ![Ejercicio 5 parte 2](https://github.com/user-attachments/assets/fb6fbab8-71c0-4aba-9912-995458bb8a66)
+
 
 #
 
@@ -73,30 +86,48 @@
 
 
 > *`Ejercicio 1 Pagina 400`*
->  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
+> ![Ejercicio 1](https://github.com/user-attachments/assets/b2d5d08b-12f6-4488-a450-0e34d01cdbd7)
+
+
+
 
 
 > >  *`Ejercicio 2 Pagina 406`*
-> >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
+> > ![Ejercicio 2](https://github.com/user-attachments/assets/7bb5502e-c789-41fa-9400-e981171357bc)
+
+
 
 > > > *`Ejercicio 3 Pagina 412`*
-> > >
+> > <img width="657" height="254" alt="Ejercicio 3" src="https://github.com/user-attachments/assets/165b4d2a-15c8-4892-9a91-7a9ab0fa853d" />
+
 > > > > *`Ejercicio 4 Pagina 418`*
-> > > >
+> > > > 
+> > > > <img width="642" height="268" alt="Ejercicio 4" src="https://github.com/user-attachments/assets/b696272c-a5a0-4024-a9cf-aa344dcf90a5" />
+
 > > > > > *`Ejercicio 5 Pagina 427`*
+> > > > > <img width="1147" height="758" alt="Ejercicio 5" src="https://github.com/user-attachments/assets/c64eaa1e-7d28-46f5-a5d5-8c1de6d3eab8" />
+
 
 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🖥️+Codigo+Fuente+🖥️" alt="Typing SVG" /></a>
 
-#### Actividad 3 en general: 
-#### *https://github.com/WaalanXD/TALLER-3-POO-GRUPO-3/tree/main/actividad03*
+#### Actividad 4 en general: 
+#### *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04*
 #
-> *`Ejercicio N82`*
-* *https://github.com/WaalanXD/TALLER-3-POO-GRUPO-3/tree/main/actividad03/ejercicio1*
->   *`Ejercicio N83`*
-* *https://github.com/WaalanXD/TALLER-3-POO-GRUPO-3/tree/main/actividad03/ejercicio2*
+> *`Ejercicio 1 Pagina 400`*
+* *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04/ejercicio01*
+>   *`Ejercicio 2 Pagina 406`*
+* *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04/ejercicio02*
+> *`Ejercicio 3 Pagina 412`*
+* *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04/ejercicio03*
+>   *`Ejercicio 4 Pagina 418`*
+* *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04/ejercicio04*
+  > *`Ejercicio 5 Pagina 427`*
+* *https://github.com/WaalanXD/TALLER-4-POO-GRUPO-3/tree/main/actividad04/ejercicio05*
+
+
 
 #
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&duration=3000&pause=0&color=C2B014&center=true&vcenter=true&multiline=true&width=1000&height=80&lines=04+de+Noviembre+de+2025;Medellín,+Antioquia" alt="gif" />
