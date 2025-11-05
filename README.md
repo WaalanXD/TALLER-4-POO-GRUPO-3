@@ -9,7 +9,7 @@
 ---
 
 
-> *`Ejercicios de las paginas del libro400, 406, 412, 416 y 427 en java🐧 y Python 🐍`* 
+> *`Ejercicios de las paginas del libro 400, 406, 412, 416 y 427 en java🐧 y Python 🐍`* 
 
 
 #
@@ -30,35 +30,63 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=Lenguaje+de+programación+utilizado:" alt="Typing SVG" /></a>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pyhton]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 #
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+Diagrama+de+clase+🗒️" alt="Typing SVG" /></a>
 
-> *`Ejercicio N82`*
+> *`Ejercicio 1 Pagina 400`*
 >  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
 
 
-> >  *`Ejercicio N83`*
+> >  *`Ejercicio 2 Pagina 406`*
 > >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
+
+> > > *`Ejercicio 3 Pagina 412`*
+> > >
+> > > > *`Ejercicio 4 Pagina 418`*
+> > > >
+> > > > > *`Ejercicio 5 Pagina 427`*
 
 #
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=👥+UML+Casos+de+Usos+👥" alt="Typing SVG" /></a>
 
-> *`Ejercicio N82`*
->  <img width="1463" height="1116" alt="Caso de uso Ejercicio N82" src="https://github.com/user-attachments/assets/d206b2f9-81eb-49c0-8563-c310796a5cf1" />
+> *`Ejercicio 1 Pagina 400`*
+>  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
 
 
+> >  *`Ejercicio 2 Pagina 406`*
+> >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
 
-> >  *`Ejercicio N83`*
-> >  <img width="1459" height="1112" alt="Caso de uso Ejercicio N83" src="https://github.com/user-attachments/assets/613c4e44-361c-4154-bdf3-2e486f81d4ad" />
-
-
-
+> > > *`Ejercicio 3 Pagina 412`*
+> > >
+> > > > *`Ejercicio 4 Pagina 418`*
+> > > >
+> > > > > *`Ejercicio 5 Pagina 427`*
 
 #
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌻+Captura+Interfaz+Grafica+🌻" alt="Typing SVG" /></a>
+
+
+> *`Ejercicio 1 Pagina 400`*
+>  <img width="1520" height="725" alt="UML 1 Act 3" src="https://github.com/user-attachments/assets/6a267d95-fb33-46de-9d91-61891437079a" />
+
+
+> >  *`Ejercicio 2 Pagina 406`*
+> >  <img width="1440" height="1872" alt="UML 2 Act 3" src="https://github.com/user-attachments/assets/db7a73b3-68ec-4ef8-9579-753c04b6d851" />
+
+> > > *`Ejercicio 3 Pagina 412`*
+> > >
+> > > > *`Ejercicio 4 Pagina 418`*
+> > > >
+> > > > > *`Ejercicio 5 Pagina 427`*
+
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🖥️+Codigo+Fuente+🖥️" alt="Typing SVG" /></a>
 
